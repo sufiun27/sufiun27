@@ -2,7 +2,7 @@
 
 I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of database management systems, including complex queries and database design. I excel in managing intricate and complex projects, as well as deploying projects from scratch. I possess in-depth knowledge of programming and problem-solving, and have experience as a Developer, Instructor, and Researcher. Additionally, I am proficient in AI and Machine Learning.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiun27&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 ## 🚀 Skills
 
