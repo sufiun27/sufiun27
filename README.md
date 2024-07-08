@@ -13,7 +13,9 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 
 ## 💼 Professional Experience
 
-- **Mid-Level Developer**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
+- **Mid-Level Developer**: 
+ **Hop Lunr**
+- Developed and maintained complex web applications, ensuring high performance and responsiveness.
 - **Lecturer - Department of Computer Science and Engineering**: Taught programming and development skills to students, helping them understand complex concepts with ease.
 
 ## 🌱 What I'm Currently Learning
