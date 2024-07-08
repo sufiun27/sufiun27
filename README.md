@@ -29,8 +29,6 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/ai.png" alt="android" width="80" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sufiun27&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
 ## 💼 Professional Experience
 
 - **Mid-Level Developer at Hop Lun**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
