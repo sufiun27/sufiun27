@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Abu Sufiun 👋
 
 I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of database management systems, including complex queries and database design. I excel in managing intricate and complex projects, as well as deploying projects from scratch. I possess in-depth knowledge of programming and problem-solving, and have experience as a Developer, Instructor, and Researcher. Additionally, I am proficient in AI and Machine Learning.
 
@@ -10,17 +10,11 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 - **Programming Languages**: PHP, JavaScript, C
 - **Artificial Intelligence & Machine Learning**: AI, ML
 
-## 🛠️ Tools & Technologies
-
-- **Version Control**: Git, GitHub
-- **Project Management**: Agile, Scrum
-- **Deployment**: Docker, AWS, Heroku
 
 ## 💼 Professional Experience
 
-- **Developer**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
-- **Instructor**: Taught programming and development skills to students, helping them understand complex concepts with ease.
-- **Researcher**: Conducted research in AI and Machine Learning, contributing to academic papers and industry innovations.
+- **Mid-Level Developer**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
+- **Lecturer - Department of Computer Science and Engineering**: Taught programming and development skills to students, helping them understand complex concepts with ease.
 
 ## 🌱 What I'm Currently Learning
 
