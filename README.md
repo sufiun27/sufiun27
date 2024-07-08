@@ -10,7 +10,10 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 - **Programming Languages**: PHP, JavaScript, C
 - **Artificial Intelligence & Machine Learning**: AI, ML
 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="./logo/restfulapi.png" alt="amplify" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+</p>
 
 
 ## 💼 Professional Experience
