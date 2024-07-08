@@ -21,7 +21,7 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 
 - Email: [abusufiun27@gmail.com](mailto:abusufiun27@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/abu-sufiun/](https://www.linkedin.com/in/abu-sufiun/)
-- GitHub: [sufiun27](https://github.com/sufiun27)
+- GitHub: [https://github.com/sufiun27](https://github.com/sufiun27)
 - Portfolio: [https://sufiun27.github.io/AbuSufiun/](https://sufiun27.github.io/AbuSufiun/)
 - Mobile: +880 1878 000 675
 
