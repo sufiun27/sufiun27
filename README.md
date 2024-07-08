@@ -16,20 +16,12 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 - **Mid-Level Developer at Hop Lun**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
 - **Lecturer - Department of Computer Science and Engineering at Daffodil International University**: Taught programming and development skills to students, helping them understand complex concepts with ease.
 
-## 🌱 What I'm Currently Learning
-
-I am currently enhancing my skills in advanced Machine Learning techniques and exploring the latest trends in AI.
 
 ## 📫 How to Reach Me
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- GitHub: [your-github-profile](https://github.com/yourprofile)
+- Email: [abusufiun27@gmail.com](mailto:abusufiun27@gmail.com)
+- LinkedIn: [Abu Sufiun](https://www.linkedin.com/in/abu-sufiun/)
+- GitHub: [Abu_Sufiun](https://github.com/sufiun27)
+- Portfolio: [Abu Sufiun](https://sufiun27.github.io/AbuSufiun/)
+- Mobile: +880 1878 000 675
 
-## ⚡ Fun Fact
-
-I love solving complex puzzles and challenges, whether in programming or in my free time with brain teasers and games.
-
----
-
-Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
