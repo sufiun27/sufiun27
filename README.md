@@ -20,10 +20,10 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/ms-sql.png" alt="android" width="100" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/oracle.png" alt="android" width="80" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/my-sql.png" alt="android" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="./logo/oop.jpg" alt="android" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="./logo/oop.jpg" alt="android" width="100" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/PHP.png" alt="android" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/C.png" alt="android" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="./logo/ai.png" alt="android" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="./logo/ai.png" alt="android" width="80" height="40"/> </a>
 </p>
 
 
