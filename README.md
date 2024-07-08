@@ -29,6 +29,7 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/ai.png" alt="android" width="80" height="40"/> </a>
 </p>
 
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sufiun27&&theme=xcode)](https://github.com/rishavchanda)
 
 ## 💼 Professional Experience
 
