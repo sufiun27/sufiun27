@@ -11,7 +11,7 @@ I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of
 - **Artificial Intelligence & Machine Learning**: AI, ML
 
 <p align="left"> 
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="./logo/restfapi.jpg" alt="amplify" width="100" height="40"/> </a> 
+<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="./logo/restf-api.jpg" alt="amplify" width="100" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="./logo/laravel.jpg" alt="android" width="40" height="40"/> </a> 
 </p>
 
