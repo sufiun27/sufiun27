@@ -1,6 +1,7 @@
 # Hi there, I'm Abu Sufiun 👋
 
 I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of database management systems, including complex queries and database design. I excel in managing intricate and complex projects, as well as deploying projects from scratch. I possess in-depth knowledge of programming and problem-solving, and have experience as a Developer, Instructor, and Researcher. Additionally, I am proficient in AI and Machine Learning.
+<br>
 I have a strong knowledge of the multinational textile industry, backed by hands-on experience with its processes. Additionally, I have a deep understanding of international university academics, giving me a well-rounded perspective in both fields.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiun27&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
