@@ -36,6 +36,28 @@ I have a strong knowledge of the multinational textile industry, backed by hands
 - **Mid-Level Developer at Hop Lun**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
 - **Lecturer - Department of Computer Science and Engineering at Daffodil International University**: Taught programming and development skills to students, helping them understand complex concepts with ease.
 
+## 📚 Publications
+
+1. **An AIoT-based Hydroponic System for Crop Recommendation and Nutrient Parameter Monitorization**  
+   *Smart Agricultural Technology (Q1 Elsevier Journal)*  
+   Volume 8, August 2024, Article ID 100472  
+   [Link to Article](https://www.sciencedirect.com/science/article/pii/S2772375524000777)
+
+2. **Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG Through Neural Network: A Comprehensive Review**  
+   *Heliyon Journal*  
+   SSRN: [Link to Article](http://dx.doi.org/10.2139/ssrn.4464737)  
+   [Link to Article](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
+
+3. **A Novel Approach of CNN Patterns Extraction for Bangla Handwriting to Bangla Braille Notation**  
+   *International Journal of Engineering Advanced Research*, Volume 3, Issue 3, Pages 1-15, December 2021  
+   ISSN 2710-7167  
+   [Link to Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kRtSwYgAAAAJ&citation_for_view=kRtSwYgAAAAJ:d1gkVwhDpl0C)
+
+4. **Automatic Bengali Number Plate Detection and Authentication using YOLO-V4 and YOLO-V5**  
+   *International Conference on Computer and Information Technology (ICCIT)*, IEEE  
+   Pages 1-6  
+   [Link to Article](https://ieeexplore.ieee.org/abstract/document/10441416)
+
 
 ## 📫 How to Reach Me
 
