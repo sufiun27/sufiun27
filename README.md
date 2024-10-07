@@ -44,19 +44,18 @@ I have a strong knowledge of the multinational textile industry, backed by hands
    
 
 2. **Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG Through Neural Network: A Comprehensive Review**  
-   *Heliyon Journal*  
-   SSRN: [Link to Article](http://dx.doi.org/10.2139/ssrn.4464737)  
-   [Link to Article](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
+   *Heliyon Journal*  [Vol 24 No 02 (2024): Advances in Systems Science and Applications](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
+   
+   
 
 3. **A Novel Approach of CNN Patterns Extraction for Bangla Handwriting to Bangla Braille Notation**  
-   *International Journal of Engineering Advanced Research*, Volume 3, Issue 3, Pages 1-15, December 2021  
-   ISSN 2710-7167  
-   [Link to Article](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kRtSwYgAAAAJ&citation_for_view=kRtSwYgAAAAJ:d1gkVwhDpl0C)
+   *International Journal of Engineering Advanced Research*, Volume 3, Issue 3, Pages 1-15, December 2021  [ISSN 2710-7167](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kRtSwYgAAAAJ&citation_for_view=kRtSwYgAAAAJ:d1gkVwhDpl0C)
+     
+   
 
 4. **Automatic Bengali Number Plate Detection and Authentication using YOLO-V4 and YOLO-V5**  
-   *International Conference on Computer and Information Technology (ICCIT)*, IEEE  
-   Pages 1-6  
-   [Link to Article](https://ieeexplore.ieee.org/abstract/document/10441416)
+   *International Conference on Computer and Information Technology (ICCIT)*,   [IEEE Pages 1-6](https://ieeexplore.ieee.org/abstract/document/10441416)
+   
 
 
 ## 📫 How to Reach Me
