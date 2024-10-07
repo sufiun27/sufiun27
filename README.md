@@ -39,9 +39,9 @@ I have a strong knowledge of the multinational textile industry, backed by hands
 ## 📚 Publications
 
 1. **An AIoT-based Hydroponic System for Crop Recommendation and Nutrient Parameter Monitorization**  
-   *Smart Agricultural Technology (Q1 Elsevier Journal)*  
-   Volume 8, August 2024, Article ID 100472  
-   [Link to Article](https://www.sciencedirect.com/science/article/pii/S2772375524000777)
+   *Smart Agricultural Technology (Q1 Elsevier Journal)*   [Volume 8, August 2024, Article ID 100472](https://www.sciencedirect.com/science/article/pii/S2772375524000777) 
+  
+   
 
 2. **Exploring the Relationship between Cardiac Disease and Patterns of 12-Lead ECG Through Neural Network: A Comprehensive Review**  
    *Heliyon Journal*  
