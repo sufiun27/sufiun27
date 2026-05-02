@@ -26,7 +26,7 @@ I am a Senior Backend Developer and Published Researcher specializing in scalabl
 * Optimizing MS-SQL queries and cross-database data flow for global manufacturing (HK, ID, BD).
 * **Impact:** Improved production planning efficiency by **10–25%**.
   
-* #### **Senior Developer — Elon IT** *(Jan 2025 – Feb 2026)*
+#### **Senior Developer — Elon IT** *(Jan 2025 – Feb 2026)*
 * Leading a team of 4 to architect scalable Microwork platforms.
 * Implementing secure Crypto-disbursement workflows and payment gateway integrations.
 * Optimizing API performance for Next.js frontends through advanced Eloquent resources and caching.
