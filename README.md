@@ -1,18 +1,38 @@
 # Hi there, I'm Abu Sufiun 👋
 
-I am an expert in RESTful APIs, Laravel, and React, with a deep understanding of database management systems, including complex queries and database design. I excel in managing intricate and complex projects, as well as deploying projects from scratch. I possess in-depth knowledge of programming and problem-solving, and have experience as a Developer, Instructor, and Researcher. Additionally, I am proficient in AI and Machine Learning.
+I am a Senior Backend Developer and Published Researcher specializing in scalable distributed systems and complex database architectures. With a proven track record in Laravel, Express, and React, I bridge the gap between high-performance engineering and academic innovation. Currently, I lead backend initiatives at Elon IT and drive digital transformation at Hop Lun, optimizing global ERP systems across HK, Indonesia, and Bangladesh.
 <br>
 I have a strong knowledge of the multinational textile industry, backed by hands-on experience with its processes. Additionally, I have a deep understanding of international university academics, giving me a well-rounded perspective in both fields.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiun27&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
-## 🚀 Skills
+## 🚀 Technical Stack
 
-- **Backend Development**: RESTful API, Laravel, PHP, OOP
-- **Frontend Development**: React, JavaScript, Bootstrap, Tailwind CSS
-- **Database Management**: MS-SQL, Oracle, My-SQL
-- **Programming Languages**: PHP, JavaScript, C
-- **Artificial Intelligence & Machine Learning**: AI, ML
+## 🛠️ Tech Stack
+
+### 🔙 Backend
+- Laravel (PHP)
+- Express.js
+- Node.js
+- RESTful API Design (PSR-12 Standard)
+
+### 🎨 Frontend
+- React
+- Next.js
+- JavaScript (ES6+)
+- Tailwind CSS
+
+### 🗄️ Database
+- MS-SQL (Optimization & Data Flow)
+- MySQL
+- MongoDB
+- Oracle
+
+### ⚙️ Specialized Integrations
+- Crypto API Integration
+- Payment Gateway Systems
+- AIoT Systems
+- ERP Implementation
 
 <p align="left"> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="./logo/restf-api.jpg" alt="amplify" width="100" height="40"/> </a> 
