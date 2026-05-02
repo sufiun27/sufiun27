@@ -71,7 +71,9 @@ I am a Senior Backend Developer and Published Researcher specializing in scalabl
 ### 📌 Contact Information
 
 
-- **📱 Mobile:** +880 1878 000 675 & +880 1324 724 642  
+- **📱 Mobile:**  
+  - +880 1878 000 675  
+  - +880 1324 724 642
 - **📧 Email:** abusufiun27@gmail.com  
 - **🔗 LinkedIn:** https://www.linkedin.com/in/abu-sufiun/  
 - **📍 Location:** Tongi, Gazipur, Bangladesh
