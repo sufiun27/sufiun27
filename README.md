@@ -77,6 +77,31 @@ I have a strong knowledge of the multinational textile industry, backed by hands
   - Healthcare Systems
 - Contributed to academic research and curriculum development
 
+
+## 🛠️ Key Projects
+
+### 📊 Style Analysis & Swingline Planning
+- Developed a global production planning system using Laravel and React
+- Managed cross-country data flow across three regions
+- Improved coordination between production units and planning teams
+- Focused on scalability and real-time data consistency
+
+---
+
+### 🌐 Microwork Ecosystem
+- Built a full-cycle microwork platform from scratch
+- Implemented task validation logic and offer wall systems
+- Integrated automated payment processing workflows
+- Designed secure and scalable backend architecture for high-volume usage
+
+---
+
+### 📦 Multi-Store Inventory System
+- Developed a high-security inventory management system
+- Implemented multi-level role-based authorization
+- Optimized logistics workflows for international textile operations
+- Supported distributed warehouse and stock tracking systems
+
 ## 📚 Publications
 
 1. **An AIoT-based Hydroponic System for Crop Recommendation and Nutrient Parameter Monitorization**  
