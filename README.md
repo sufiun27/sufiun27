@@ -47,7 +47,7 @@ I am a Senior Backend Developer and Published Researcher specializing in scalabl
 
 ### 📚 Featured Publications
 
-* **Bangla Braille to Voice Conversion** | *Springer Nature - Multimedia Tools and Applications (2025)*
+* **Bangla Braille to Voice Conversion** | *Springer Nature - Multimedia Tools and Applications (2025)* [View](https://link.springer.com/article/10.1007/s11042-025-20995-9)
 * **AIoT-based Hydroponic System** | *Elsevier - Smart Agricultural Technology (Q1, 2024)* [View](https://www.sciencedirect.com/science/article/pii/S2772375524000777)
 * **ECG Neural Network Analysis** | *Heliyon Journal (2024)* [View](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
 * **Bengali Number Plate Detection (YOLO-V5)** | *IEEE ICCIT* [View](https://ieeexplore.ieee.org/abstract/document/10441416)
