@@ -53,8 +53,29 @@ I have a strong knowledge of the multinational textile industry, backed by hands
 
 ## 💼 Professional Experience
 
-- **Mid-Level Developer at Hop Lun**: Developed and maintained complex web applications, ensuring high performance and responsiveness.
-- **Lecturer - Department of Computer Science and Engineering at Daffodil International University**: Taught programming and development skills to students, helping them understand complex concepts with ease.
+### 🏭 Sr. Officer (App Development) — Hop Lun
+- Engineered real-time AIoT-based factory tracking systems
+- Optimized MS-SQL queries for global operations
+- Improved production efficiency by 10–25%
+- Supported international manufacturing data pipelines and reporting systems
+
+---
+### 🚀 Senior Developer — Elon IT
+- Led a team of 4 developers to build scalable Microwork platforms
+- Implemented secure Crypto disbursement systems
+- Optimized JSON-based API resources for Next.js frontends
+- Focused on performance, scalability, and secure financial workflows
+
+
+---
+
+### 🎓 Former Lecturer — Daffodil International University
+- Taught Object-Oriented Programming (OOP) and Database Systems
+- Guided students in software engineering fundamentals
+- Published Q1-ranked research in:
+  - Artificial Intelligence
+  - Healthcare Systems
+- Contributed to academic research and curriculum development
 
 ## 📚 Publications
 
