@@ -21,15 +21,15 @@ I am a Senior Backend Developer and Published Researcher specializing in scalabl
 
 ### 💼 Professional Experience
 
-#### **Senior Developer — Elon IT** *(Jan 2025 – Present)*
-* Leading a team of 4 to architect scalable Microwork platforms.
-* Implementing secure Crypto-disbursement workflows and payment gateway integrations.
-* Optimizing API performance for Next.js frontends through advanced Eloquent resources and caching.
-
 #### **Sr. Officer (Application Development) — Hop Lun** *(May 2023 – Present)*
 * Developing real-time AIoT factory tracking systems integrated with HRM/ERP.
 * Optimizing MS-SQL queries and cross-database data flow for global manufacturing (HK, ID, BD).
 * **Impact:** Improved production planning efficiency by **10–25%**.
+  
+* #### **Senior Developer — Elon IT** *(Jan 2025 – Feb 2026)*
+* Leading a team of 4 to architect scalable Microwork platforms.
+* Implementing secure Crypto-disbursement workflows and payment gateway integrations.
+* Optimizing API performance for Next.js frontends through advanced Eloquent resources and caching.
 
 #### **Lecturer (CSE) — Daffodil International University** *(June 2022 – May 2023)*
 * Instructed courses on OOP, Database Systems, and Web Development.
