@@ -1,79 +1,94 @@
-# Hi there, I'm Abu Sufiun 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:4f46e5&height=180&section=header&text=Abu%20Sufiun&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Senior%20Backend%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Researcher&descAlignY=75" />
 
-**Senior Backend Developer | Distributed Systems & Database Specialist | Researcher**
+<p align="center">
+  <a href="https://github.com/sufiun27"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+scalable+systems+for+global+factories;Distributed+Systems+%2B+Database+Architecture;Backend+Engineer+%40+Elon+IT+%2F+Hop+Lun;Published+Researcher+%28Springer%2C+Elsevier%2C+IEEE%29" alt="Typing SVG" /></a>
+</p>
 
-I am a Senior Backend Developer and Published Researcher specializing in scalable distributed systems and complex database architectures. I bridge the gap between high-performance engineering and academic innovation, currently leading backend initiatives at **Elon IT** and driving digital transformation at **Hop Lun** across Hong Kong, Indonesia, and Bangladesh.
-
-[![Profile views](https://komarev.com/ghpvc/?username=sufiun27&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/sufiun27)
-
----
-
-### 🚀 Technical Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Backend** | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Database** | ![MS-SQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| **Specialized** | Backend Developer, API Integration & Bug Fixing Specialist, ERP Systems, Database Optimization, Crypto & Payment Gateways |
-
----
-
-### 💼 Professional Experience
-
-#### **Sr. Officer (Application Development) — Hop Lun** *(May 2023 – Present)*
-* Developing real-time AIoT factory tracking systems integrated with HRM/ERP.
-* Optimizing MS-SQL queries and cross-database data flow for global manufacturing (HK, ID, BD).
-* **Impact:** Improved production planning efficiency by **10–25%**.
-  
-#### **Senior Developer — Elon IT** *(Jan 2025 – Feb 2026)*
-* Leading a team of 4 to architect scalable Microwork platforms.
-* Implementing secure Crypto-disbursement workflows and payment gateway integrations.
-* Optimizing API performance for Next.js frontends through advanced Eloquent resources and caching.
-
-#### **Lecturer (CSE) — Daffodil International University** *(June 2022 – May 2023)*
-* Instructed courses on OOP, Database Systems, and Web Development.
-* Published Q1-ranked research and applied Outcome-Based Education (OBE) methodologies.
-
----
-
-### 🛠️ Key Projects
-
-* **Style Analysis & Swingline Planning:** A global production system (Laravel/React) managing data consistency across three regions.
-* **Microwork Ecosystem:** Built a full-cycle platform featuring complex task-validation logic and automated financial workflows.
-* **Multi-Store Inventory:** A high-security ERP module with multi-level RBAC for international textile logistics.
-
----
-
-### 📚 Featured Publications
-
-* **Bangla Braille to Voice Conversion** | *Springer Nature - Multimedia Tools and Applications (2025)* [View](https://link.springer.com/article/10.1007/s11042-025-20995-9)
-* **AIoT-based Hydroponic System** | *Elsevier - Smart Agricultural Technology (Q1, 2024)* [View](https://www.sciencedirect.com/science/article/pii/S2772375524000777)
-* **ECG Neural Network Analysis** | *Heliyon Journal (2024)* [View](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)
-* **Bengali Number Plate Detection (YOLO-V5)** | *IEEE ICCIT* [View](https://ieeexplore.ieee.org/abstract/document/10441416)
-
----
-
-### 📫 Connect with Me
-
-<p align="left">
-<a href="mailto:abusufiun27@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/abu-sufiun/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<p align="center">
+  <a href="mailto:abusufiun27@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abu-sufiun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://sufiun.me"><img src="https://img.shields.io/badge/Portfolio-4F46E5?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=sufiun27&label=Views&color=6366f1&style=flat-square" />
 </p>
 
 ---
 
-### 📌 Contact Information
+### > whoami
 
+```ts
+const abu = {
+  role: "Senior Backend Developer",
+  focus: ["Distributed Systems", "High-Performance APIs", "Database Architecture", "ERP / AIoT"],
+  current: {
+    company: "Elon IT • Hop Lun (HK / ID / BD)",
+    mission: "Bridging factory-floor IoT with real-time ERP for 10k+ users",
+  },
+  philosophy: "Ship fast, optimize ruthlessly, document obsessively.",
+  funFact: "Published 4 papers while scaling production systems by 25%"
+};
+```
 
-- **📱 Mobile:**  
-  - +880 1878 000 675  
-  - +880 1324 724 642
-- **📧 Email:** abusufiun27@gmail.com  
-- **🔗 LinkedIn:** https://www.linkedin.com/in/abu-sufiun/  
-- **📍 Location:** Tongi, Gazipur, Bangladesh
+### Stack - What I actually use
+
+<p align="left">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,react,nextjs,ts,js,tailwind,mysql,mongodb,postgres,redis,docker,aws,git&theme=dark" /></a>
+</p>
+
+**Backend:** Laravel (Expert), PHP, Node.js, Express, REST / GraphQL, Microservices, Queue Workers, Caching Strategies  
+**Frontend:** React, Next.js, Tailwind - enough to own the full stack  
+**Data:** MS-SQL (Complex Query Optimization), MySQL, PostgreSQL, MongoDB, Oracle, Redis  
+**Special Ops:** ERP Architecture, AIoT Integration, Payment & Crypto Gateways, API Performance Tuning, RBAC Systems
+
+---
+
+### Work
+
+**Sr. Officer, Application Development @ Hop Lun** `May 2023 - Present`
+> Real-time AIoT factory tracking integrated with HRM/ERP. Optimized cross-region MS-SQL replication. **+25% planning efficiency** for 3-country manufacturing.
+
+**Senior Developer @ Elon IT** `Jan 2025 - Feb 2026`
+> Leading 4 engineers on Microwork platform. Built secure crypto-disbursement engine, Next.js API optimization with Eloquent resources + Redis.
+
+**Lecturer, CSE @ Daffodil International University** `2022 - 2023`
+> Taught OOP, DB Systems. OBE curriculum + Q1 research.
+
+---
+
+### Featured Builds
+
+- **Style Analysis & Swingline Planning** - Global production planning system (Laravel + React) handling consistency across 3 regions. `Laravel / MS-SQL / React / Real-time`
+- **Microwork Ecosystem** - Full-cycle task validation + automated financial workflow with fraud checks. `Laravel / Next.js / Crypto APIs`
+- **Multi-Store Inventory ERP** - High-security module with multi-level RBAC for textile logistics. `RBAC / Audit Logs / Multi-tenancy`
+
+---
+
+### Research - Springer / Elsevier / IEEE
+
+> Engineering with academic rigor.
+
+**1. Bangla Braille to Voice Conversion** - *Springer Nature (2025)* - [Paper](https://link.springer.com/article/10.1007/s11042-025-20995-9)  
+**2. AIoT-based Hydroponic System** - *Elsevier Smart AgriTech Q1 (2024)* - [Paper](https://www.sciencedirect.com/science/article/pii/S2772375524000777)  
+**3. ECG Neural Network Analysis** - *Heliyon (2024)* - [Paper](https://ijassa.ipu.ru/index.php/ijassa/article/view/1601)  
+**4. Bengali Number Plate Detection (YOLOv5)** - *IEEE ICCIT* - [Paper](https://ieeexplore.ieee.org/abstract/document/10441416)
+
+---
+
+### GitHub Pulse
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sufiun27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=6366F1&icon_color=6366F1&text_color=CBD5E1" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=sufiun27&theme=tokyonight&hide_border=true&background=0F172A&ring=6366F1&fire=6366F1&currStreakLabel=CBD5E1" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sufiun27&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=CBD5E1&line=6366F1&point=FFFFFF" />
+</p>
+
+---
+
+<p align="center">
+  <i>Open to Senior Backend / System Architect roles & Research Collaborations.</i><br>
+  <b>Tongi, Gazipur, Bangladesh (GMT+6) • Remote Worldwide</b>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0f172a&height=120&section=footer" />
